@@ -1,0 +1,1 @@
+Navarre PackhamGA306_aMidterm1. A Function2. Default Argument3. *args allows you to take more arguments than normal While **kwargs allows you to pas through any number of keyword arguments.4.  Start, stop, and step5. Boolean Expressions: if, elif, else6. Iteration patterns
